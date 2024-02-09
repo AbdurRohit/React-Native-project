@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```bash
 git clone https://github.com/AbdurRohit/React-Native-project.git
 
-cd project-directory
+cd React-Native-project
 
 npm install
 # or
